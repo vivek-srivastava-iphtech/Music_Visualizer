@@ -20,9 +20,9 @@ These instructions will help you get a copy of the project up and running on you
 
    git clone https://github.com/vivek-srivastava-iphtech/Music_Visualizer.git
 
-![Smaple Images] https://github.com/vivek-srivastava-iphtech/Music_Visualizer/blob/main/img1.png
+![Smaple Images](https://github.com/vivek-srivastava-iphtech/Music_Visualizer/blob/main/img1.png)
 
-![Smaple Images] https://github.com/vivek-srivastava-iphtech/Music_Visualizer/blob/main/img2.png
+![Smaple Images](https://github.com/vivek-srivastava-iphtech/Music_Visualizer/blob/main/img2.png)
 
-![Smaple Images] https://github.com/vivek-srivastava-iphtech/Music_Visualizer/blob/main/img3.png
+![Smaple Images](https://github.com/vivek-srivastava-iphtech/Music_Visualizer/blob/main/img3.png)
 
